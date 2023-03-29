@@ -8,9 +8,9 @@ At the backend, we use MongoDB as our database to store and manage user data. Wi
 On the frontend, we have used ReactJS, a powerful and widely-used JavaScript library, to create an intuitive interface. Frontend provides users with an easy-to-use interface to create, edit, and organize their notes. With React's powerful state management and reusable components, we are able to deliver a fast and responsive user experience.
 
 
-Try it Out: https://keep-notes-sp5g.onrender.com/
+Try it Out 🤳: https://keep-notes-sp5g.onrender.com/
 
-# Links
+# Links 🔗
 Frontend: https://keep-notes-sp5g.onrender.com
 Backend: https://keep-api.onrender.com/api/data
 
